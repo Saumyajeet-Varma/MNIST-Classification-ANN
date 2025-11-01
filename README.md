@@ -1,0 +1,3 @@
+# MNIST CLassification ANN
+
+> I'll update the README soon...
