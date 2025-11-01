@@ -46,32 +46,26 @@ Directory structure:
 
 ## Workflow
 
-#### Data Loading:
-- Import the MNIST dataset directly from TensorFlow’s datasets module.
-
-#### Data Preprocessing:
-- Normalize pixel values from 0–255 to 0–1.
-- Flatten 28x28 images into 784-dimensional vectors.
-
-#### Model Architecture:
-- **Input Layer**: 784 neurons (one for each pixel).
-- **Hidden Layers 1**: 128 neurons dense layers with ReLU activation.
-- **Hidden Layers 2**: 32 neurons dense layers with ReLU activation.
-- **Output Layer**: 10 neurons with softmax activation (for digits 0–9).
-
-#### Model Compilation:
-- **Optimizer**: Adam
-- **Loss Function**: Categorical Crossentropy
-- **Metric**: Accuracy
-
-#### Training:
-- Train the model on the training dataset for a fixed number of epochs.
-
-#### Evaluation:
-- Test accuracy and loss on the validation dataset.
-
-#### Visualization:
-- Display accuracy and loss curves.
+1. Data Loading:
+    - Import the MNIST dataset directly from TensorFlow’s datasets module.
+2.  Data Preprocessing:
+    - Normalize pixel values from 0–255 to 0–1.
+    - Flatten 28x28 images into 784-dimensional vectors.
+3. Model Architecture:
+    - **Input Layer**: 784 neurons (one for each pixel).
+    - **Hidden Layers 1**: 128 neurons dense layers with ReLU activation.
+    - **Hidden Layers 2**: 32 neurons dense layers with ReLU activation.
+    - **Output Layer**: 10 neurons with softmax activation (for digits 0–9).
+4. Model Compilation:
+    - **Optimizer**: Adam
+    - **Loss Function**: Categorical Crossentropy
+    - **Metric**: Accuracy
+5. Training:
+    - Train the model on the training dataset for a fixed number of epochs.
+6. Evaluation:
+    - Test accuracy and loss on the validation dataset.
+7. Visualization:
+    - Display accuracy and loss curves.
 
 ## Results
 
