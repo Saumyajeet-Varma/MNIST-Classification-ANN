@@ -12,10 +12,10 @@ This project serves as a beginner-friendly introduction to deep learning and neu
 
 <table>
   <tr>
-    <td><img src="./images/0.png" width="100" height="100"></td>
-    <td><img src="./images/1.png" width="100" height="100"></td>
-    <td><img src="./images/4.png" width="100" height="100"></td>
-    <td><img src="./images/5.png" width="100" height="100"></td>
+    <td><img src="./images/0.png"></td>
+    <td><img src="./images/1.png"></td>
+    <td><img src="./images/4.png"></td>
+    <td><img src="./images/5.png"></td>
   </tr>
 </table>
 
@@ -83,8 +83,8 @@ Directory structure:
     <th>Loss</th>
   </tr>
   <tr>
-    <td><img src="./images/accuracyPlot.png" width="100" height="100"></td>
-    <td><img src="./images/lossPlot.png" width="100" height="100"></td>
+    <td><img src="./images/accuracyPlot.png"></td>
+    <td><img src="./images/lossPlot.png"></td>
   </tr>
 </table>
 
