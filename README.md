@@ -31,16 +31,20 @@ This project serves as a beginner-friendly introduction to deep learning and neu
 ## Directory Structure
 
 ```md
-Directory structure:
-└── saumyajeet-varma-mnist-classification-ann/
-    ├── images
-    |   ├── 0.png
-    |   ├── 1.png
-    |   ├── 4.png
-    |   └── 5.png
-    ├── README.md
-    ├── MNIST-NN.ipynb
-    └── requirements.txt
+MNIST-Classification-ANN/
+|
+├── images
+|   ├── 0.png
+|   ├── 1.png
+|   ├── 4.png
+|   ├── 5.png
+|   ├── accuracyPlot.png
+|   └── lossPlot.png
+|
+├── .gitignore
+├── MNIST-NN.ipynb
+├── README.md
+└── requirements.txt
 
 ```
 
@@ -84,4 +88,4 @@ Directory structure:
 
 ## Contributor
 
-- [Saumyajeet Varma](https://github.com/Saumyajeet-Varma)
+<a href="https://github.com/Saumyajeet-Varma"><img src="https://contrib.rocks/image?repo=Saumyajeet-Varma/MNIST-Classification-ANN" /></a>
