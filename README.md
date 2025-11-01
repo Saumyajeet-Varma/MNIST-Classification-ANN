@@ -33,7 +33,7 @@ This project serves as a beginner-friendly introduction to deep learning and neu
 ```md
 MNIST-Classification-ANN/
 |
-├── images
+├── images/
 |   ├── 0.png
 |   ├── 1.png
 |   ├── 4.png
